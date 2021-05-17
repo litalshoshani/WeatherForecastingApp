@@ -1,0 +1,5 @@
+DB_NAME = "heroku_e83d2bc38e1d1f7"
+TABLE_NAME = "weatherForecast"
+MYSQL_HOST = "us-cdbr-east-03.cleardb.com"
+MYSQL_USER = "bc151e1bd0aeb1"
+MYSQL_PASS = ""
